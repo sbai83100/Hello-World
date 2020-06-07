@@ -7,5 +7,5 @@ I started programming in high school, with Java being my first language. Since t
 This summer, I am immersing myself more in artificial intelligence by auditing Harvard University CS50's Introduction to Artificial Intelligence with Python. You can see those projects here on my GitHub profile.
 
 Feel free to follow me via
-* LinkedIn - [link](https://www.linkedin.com/in/sam-bai/)
-* Portfolium - [link](https://portfolium.com/SamBai)
+* [LinkedIn](https://www.linkedin.com/in/sam-bai/)
+* [Portfolium](https://portfolium.com/SamBai)
